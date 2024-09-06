@@ -5,7 +5,7 @@ Scan Chicago's 311 API for Image Uploads
 
 Chicago's 311 system contains images that residents upload along with their complaints: broken streetlights, potholes, dead and live animals, graffiti, etc. These are unavailable on the city's [public facing data portal](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy/about_data).
 
-Inspired by [Chris Gansen](https://github.com/cgansen)'s hilarious [Twitter 311 photo bot](https://x.com/chi311photos), I wrote two basic Python programs to retrieve these photos. These are my first attempts at Python programming after reading [Eric Matthes](https://github.com/ehmatthes)'s excellent "Python Crash Course."
+Inspired by [Chris Gansen](https://github.com/cgansen)'s hilarious [Twitter 311 photo bot](https://x.com/chi311photos), I wrote two basic Python programs to retrieve these photos.
 
 Feel free to let me know if you have any questions.
 
